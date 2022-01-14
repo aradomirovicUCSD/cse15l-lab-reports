@@ -17,7 +17,7 @@ Try typing some of these commands into the terminal while you are logged into SS
 * `ls -a`
 * `pwd`
 * `mkdir`<br/>
-The results will look a lot like this:
+The results will look a lot like this:<br>
 ![](s3_1.png)
 ![](s3_2.png)
 
