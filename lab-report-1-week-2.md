@@ -18,7 +18,6 @@ Try typing some of these commands into the terminal while you are logged into SS
 * `pwd`
 * `mkdir`<br/>
 The results will look a lot like this:
----
 ![](s3_1.png)
 ![](s3_2.png)
 
