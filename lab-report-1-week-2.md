@@ -18,8 +18,8 @@ Try typing some of these commands into the terminal while you are logged into SS
 * `pwd`
 * `mkdir`<br/>
 The results will look a lot like this:<br>
-![](s3_1.png)
-![](s3_2.png)
+![](s3_1.PNG)
+![](s3_2.PNG)
 
 ## 4. Moving files with SCP
 If you are trying to move a file from your computer into the server, use the `scp` command.<br/>
