@@ -36,4 +36,6 @@ Follow these commands to make a key so you can log in without a passcode:<br>
 
 ## 6. Working even faster
 Once you have the SSH key, you can type commands with after your login command in order to have an even faster and more efficient workflow:<br>
-![](s6.png)
+![](s6.png)<br>
+*Edit:*<br>
+I was able to get my process down to **9 keystrokes**, since I already had the `ssh` command as the last command, I typed the up arrow, and the total keystrokes in hitting the up arrow, typing ` "ls"` and pressing enter amounted to 9.
